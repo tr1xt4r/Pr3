@@ -1,0 +1,2 @@
+Array: main.c
+	gcc -o Array main.c

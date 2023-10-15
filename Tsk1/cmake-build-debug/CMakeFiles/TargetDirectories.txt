@@ -1,0 +1,3 @@
+C:/Users/UseR/OneDrive/Рабочий стол/Dimon OS/Pr3/Tsk1/cmake-build-debug/CMakeFiles/Tsk1.dir
+C:/Users/UseR/OneDrive/Рабочий стол/Dimon OS/Pr3/Tsk1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/UseR/OneDrive/Рабочий стол/Dimon OS/Pr3/Tsk1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
